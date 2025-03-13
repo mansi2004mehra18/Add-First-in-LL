@@ -2,7 +2,7 @@
 
 Add in Linked List
 
-add First
+add First  -> constant time O(n)
 
 1: create new node
 2: new node's next = head
